@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+## fixing the bug preventing apache2 webserver from running
+
+sudo service apache2 start
